@@ -32,4 +32,6 @@ This is a **fully responsive full-stack YouTube Clone application** built using 
 ---
 
 ## 📁 Project Structure
+## 🎥 Demo Video
 
+📽️ [Watch the Demo Video]("https://res.cloudinary.com/dxxyeevhe/video/upload/v1752598462/Screen_Recording_2025-07-15_221717_auerwp.mp4")
