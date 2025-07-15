@@ -1,0 +1,22 @@
+.App {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+
+
+}
+
+/* App.css or index.css */
+body, html {
+  margin: 0;
+  padding: 0;
+  background-color: black;
+  color: white;
+  height: 100%;
+}
+
+#root {
+  min-height: 100vh;
+  background-color: black;
+}
+
